@@ -3,5 +3,6 @@
 /Scripts
 /share
 pyvenv.cfg
-*.txt
+ratings*.txt
 .lock
+/etc
