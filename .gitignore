@@ -6,3 +6,7 @@ pyvenv.cfg
 ratings*.txt
 .lock
 /etc
+/.vscode
+/ratings
+/ratings_train
+.env
