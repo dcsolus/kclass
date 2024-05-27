@@ -10,3 +10,4 @@ ratings*.txt
 /ratings
 /ratings_train
 .env
+*.parquet
